@@ -1,0 +1,4 @@
+hello:world
+bonjour le monde:123
+test:python
+입니다:to be
