@@ -20,20 +20,25 @@ def main():
             wrong = 0
             with open("dictionaries/"+file+".txt", 'r', encoding="utf-8") as f:
                 data = f.read().split("\n")
-
+            correctAnswer = ""
+            yourAnswer = ""
             amountOfWords = len(data)
             while True:
                 print(f"RIGHT - {right}. WRONG - {wrong}")
+                print("Correct answer: " + correctAnswer)
+                print("Your answer: " + yourAnswer)
                 print("----------------------------")
                 index = random.randint(0, amountOfWords-1)
                 dic = data[index].split(":")
                 indexWord = random.randint(0, 1)
                 print(dic[indexWord]+":", end="")
                 indexWord = 1 - indexWord
-                if (dic[indexWord] == input()):
+                yourAnswer = input()
+                if (dic[indexWord] == yourAnswer):
                     right += 1
                 else:
                     wrong += 1
+                correctAnswer = dic[0] + ":" + dic[1]
                 # os.system('CLS')
                 os.system('clear')
 

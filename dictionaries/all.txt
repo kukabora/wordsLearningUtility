@@ -1,12 +1,12 @@
 year:날
 independence:독립
-woman:예자
+woman:여자
 man:남자
 bread:빵
 apple:사과
 home:집
 school:학교
-pencil:옌필
+pencil:언필
 book:책
 food:음식
 child:아이
@@ -14,7 +14,7 @@ person:사람
 mountain:산
 student:학생
 tea:차
-movie:옝화
+movie:영화
 car:자동차
 newspaper:신문
 park:공원
@@ -58,7 +58,7 @@ to not exist:없다
 teacher:선생님
 what:뭐
 telephone:전화
-number:본호
+number:번호
 sino-korean-0:영
 sino-korean-1:일
 sino-korean-2:이
