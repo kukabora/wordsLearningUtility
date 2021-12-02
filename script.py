@@ -23,4 +23,5 @@ while True:
         right += 1
     else:
         wrong += 1
-    os.system('CLS')
+    # os.system('CLS')
+    os.system('clear')
