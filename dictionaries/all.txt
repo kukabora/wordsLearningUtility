@@ -1,0 +1,91 @@
+year:날
+independence:독립
+woman:예자
+man:남자
+bread:빵
+apple:사과
+home:집
+school:학교
+pencil:옌필
+book:책
+food:음식
+child:아이
+person:사람
+mountain:산
+student:학생
+tea:차
+movie:옝화
+car:자동차
+newspaper:신문
+park:공원
+meaning:의미
+populatiry:인기
+singer:가수
+attractiveness:매력
+fun:재미
+taste:맛
+ball:공
+friend:친구
+road:길
+ocean:바다
+room:방
+family:가족
+Korea:한국
+coolness:멋
+name:이름
+library:도서관
+smile:웃다
+island:섬
+hand:손
+yes:네
+no:아니오
+too:도
+honorific suffix:씨
+country:나라
+which:어느
+Kanada:개나다
+England:영국
+India:인도
+China:중국
+foreigner:어국인
+America:미국
+lawyer:변호사
+actor:배우
+not to be:아니다
+office worker:회사원
+to exist:있다
+to not exist:없다
+teacher:선생님
+what:뭐
+telephone:전화
+number:본호
+sino-korean-0:영
+sino-korean-1:일
+sino-korean-2:이
+sino-korean-3:삼
+sino-korean-4:사
+sino-korean-5:오
+sino-korean-6:육
+sino-korean-7:칠
+sino-korean-8:팔
+sino-korean-9:구
+sino-korean-10:십
+still:아직도
+now:지금
+where:어디
+theater:극장
+promise:약속
+date:데이트
+to go:가다
+good:잘
+there:거기
+let's go:갑시다
+posessive suffix:의
+here:여기
+over there:저기
+mom:엄마
+past:옛날
+minute:분
+we:우리
+to start:시작하다
+how many:몇
