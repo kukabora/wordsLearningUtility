@@ -89,3 +89,13 @@ minute:분
 we:우리
 to start:시작하다
 how many:몇
+boss:사장님
+to eat:먹다
+kimchi stew:김치찌개
+soybean stew:된잔찌개
+this(spoken):이거
+that(spoken):그거
+that(spoken and far):저거
+this(written):이것
+that(written):그것
+that(written and far):저것

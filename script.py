@@ -41,6 +41,8 @@ def main():
                 correctAnswer = dic[0] + ":" + dic[1]
                 # os.system('CLS')
                 os.system('clear')
+        else:
+            print("There is no such a dictionary!")
 
 
 if __name__ == "__main__":
