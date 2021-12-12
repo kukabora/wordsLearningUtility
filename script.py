@@ -17,7 +17,7 @@ def main():
             "Choose your topics (write them down separated by space):")
         check = True
         for dictionaryName in file.split(" "):
-            if (not dictionaryName in availableDictionaries):
+            if (not dictionaryName in availableDictionaries and dictionaryName != "all"):
                 check = False
                 break
         if check:
