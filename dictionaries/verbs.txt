@@ -1,0 +1,7 @@
+to start:시작하다
+to eat:먹다
+to exist:있다
+to not exist:없다
+to go:가다
+not to be:아니다
+to be:이다

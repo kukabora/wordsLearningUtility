@@ -1,0 +1,6 @@
+Kanada:개나다
+England:영국
+India:인도
+China:중국
+Korea:한국
+America:미국

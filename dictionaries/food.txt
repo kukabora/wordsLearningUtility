@@ -1,0 +1,9 @@
+bread:빵
+rice:밥
+kimpab:김밥
+apple:사과
+tea:차
+taste:맛
+food:음식
+kimchi stew:김치찌개
+soybean stew:된잔찌개
