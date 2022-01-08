@@ -46,6 +46,10 @@ def main():
                 amountOfWords = len(data[currentDictionaryIndex])
                 index = random.randint(0, amountOfWords-1)
                 dic = data[currentDictionaryIndex][index].split(":")
+                if dic[0][0] == "#":
+                    os.system("clear")
+                    # os.system("cls")
+                    continue
                 indexWord = random.randint(0, 1)
                 print(dic[indexWord]+":", end="")
                 indexWord = 1 - indexWord
