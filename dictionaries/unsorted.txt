@@ -68,3 +68,40 @@ that(spoken and far):저거
 this(written):이것
 that(written):그것
 that(written and far):저것
+bathroom:화장실
+tomorrow:내일
+today:오늘
+yesterday:어제
+plan:계획
+money:돈
+who:누구
+this:이
+that(non-visible):그
+that(non-visible and far):저
+night:밤
+work:일
+studies:공부
+start:시작
+television:텔레비젼
+picture:그림
+a bit:좀
+but:그런데
+karaoke:노래방
+with:랑
+truth:사실
+but:근데
+but (full):그런데
+older male:오빠
+stomach:배
+mother:어머니
+neighborhood:동네
+we, our:우리
+how, in what way:어떻게
+by any chance:혹시
+dish:요리
+restaurant:식당
+miss:아가씨
+salsa:살사
+very, a lot:마니
+taco:타코
+for real:정말

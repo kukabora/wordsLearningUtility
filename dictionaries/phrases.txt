@@ -5,3 +5,7 @@ excuse me:실례합니다
 i'm sorry:죄송합니다
 please:주세요
 let's go:갑시다
+welcome:어서오십시오
+it can't be:안 돼
+hey:야
+really?:진짜

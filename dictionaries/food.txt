@@ -7,3 +7,4 @@ taste:맛
 food:음식
 kimchi stew:김치찌개
 soybean stew:된잔찌개
+beer:맥주

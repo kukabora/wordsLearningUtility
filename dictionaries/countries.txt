@@ -4,3 +4,4 @@ India:인도
 China:중국
 Korea:한국
 America:미국
+Mexico:멕시코

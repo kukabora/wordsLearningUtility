@@ -18,18 +18,21 @@
 걷다:to walk
 춤추다:to dance
 만나다:to meet
-#공부하다:to study
+바쁘다:to be busy
+비싸다:to be expensive
+싸다:to be cheap
+공부하다:to study
 #운전하다:to drive
 #사다:to buy
-#읽다:to read
+읽다:to read
 #주문하다:to order
 #입다:to wear
 #찍다:to take (picture)
 #쓰다:to wear (eyewear)
 #신다:to wear (footwear)
 #빌리다:to borrow
-#전화하다:to telephone
-#말하다:to talk
+전화하다:to call by telephone
+말하다:to speak
 #가르치다:to teach
 #기다리다:to wait
 #걸다:to call
@@ -42,12 +45,12 @@
 #도와주다:to help
 #열다:to open
 #닫다:to close
-#일하다:to work
+일하다:to work
 #쉬다:to rest
 #운동하다:to exercise
 #생각하다:to think
-#알다:to know
-#모르다:to not know
+알다:to know
+모르다:to not know
 #요리하다:to cook
 #끓이다:to boil
 #썰다:to chop
@@ -69,21 +72,21 @@
 #죽다:to die
 #태어나다:to be born
 #사랑하다:to love
-#좋아하다:to like
-#싫어하다:to dislike
-#결혼하다:to marry
+좋아하다:to like
+싫어하다:to dislike
+결혼하다:to marry
 #축하하다:to congratulate
 #걱정하다:to worry
 #약속하다:to promise
 #거짓말하다:to lie
 #고백하다:to confess
-#죄송하다:to be sorry
+죄송하다:to be sorry
 #찾다:to search
 #준비하다:to prepare
 #가지다:to have
 #기억하다:to remember
 #꿈꾸다:to dream
-#시작하다:to start
+시작하다:to start
 #끝나다:to finish
 #보내다:to send
 #사용하다:to use
@@ -98,3 +101,18 @@
 #지다:to lose
 #서두르다:to hurry
 #사랑에 빠지다:to fall in love
+괜찮다:to be ok
+조다:to be good
+나쁘다:to be bad
+크다:to be big
+작다:to be small
+멋있다:to be cool
+얘기하다:to have a dialogue
+싶다:to want
+싫다:to hate
+놀다:to play
+나오다:to come out
+시끄럽다:to be loud
+아프다:to be hurt
+진정하다:to calm down
+드시다:to eat(honorific)
